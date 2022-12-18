@@ -33,3 +33,4 @@ const moviesList = [
   },
 ]
 
+export default moviesList;
